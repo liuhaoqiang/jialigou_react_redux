@@ -1,0 +1,129 @@
+{ "ret":true,
+  "data":[
+		  {"fist_title":"TV直播    水果生鲜",
+		    "second_data":[
+			   {"second_title":"最新上架",
+			    "second_data":["最新上架1","最新上架2","最新上架3"]
+			   },
+			    {"second_title":"热销排行",
+			     "second_data":["热销1","热销2"]
+			   }]
+		  },
+		   {"fist_title":"护肤   美妆",
+		    "second_data":[
+			   {"second_title":"全身护理",
+			    "second_data":["最新上架1","最新上架2","最新上架3"]
+			   },
+			    {"second_title":"面部护理",
+			     "second_data":["热销1","热销2"]
+			   }]
+		  },
+		   {"fist_title":"服装  箱包",
+		    "second_data":[
+			   {"second_title":"内衣",
+			    "second_data":["最新上架1","最新上架2","最新上架3"]
+			   },
+			    {"second_title":"女装",
+			     "second_data":["热销1","热销2"]
+			   },
+			    {"second_title":"男装",
+			     "second_data":["热销1","热销2"]
+			   },
+			    {"second_title":"女鞋",
+			     "second_data":["热销1","热销2"]
+			   },
+			   {"second_title":"男鞋",
+			     "second_data":["热销1","热销2"]
+			   }]
+		  },
+		   {"fist_title":"酒水  保健",
+		    "second_data":[
+			   {"second_title":"健身器材 ",
+			    "second_data":["全身护理1","全身护理 2"]
+			   },
+			    {"second_title":"配餐零食",
+			     "second_data":["面部护理1","面部护理2"]
+			   },
+			   {"second_title":"红酒白酒",
+			     "second_data":["化妆用品1","化妆用品2","化妆用品3"]
+			   }]
+		  },
+		   {"fist_title":"饰品 礼品",
+		    "second_data":[
+			   {"second_title":"项链吊坠",
+			    "second_data":["吊坠1","吊坠2","吊坠3","吊坠4","吊坠5"]
+			   },
+			    {"second_title":"手链手镯",
+			     "second_data":["手链1","手链2"]
+			   },
+			   {"second_title":"工艺品",
+			     "second_data":["工艺品","工艺品"]
+			   }]
+		  },
+		   {"fist_title":"家居 日用",
+		    "second_data":[
+			   {"second_title":"家纺 ",
+			    "second_data":["全身护理1","全身护理 2"]
+			   },
+			    {"second_title":"生活日用",
+			     "second_data":["面部护理1","面部护理2"]
+			   },
+			   {"second_title":"厨房日用",
+			     "second_data":["化妆用品1","化妆用品2","化妆用品3"]
+			   },
+			    {"second_title":"新奇好货",
+			     "second_data":["化妆用品1","化妆用品2","化妆用品3"]
+			   }]
+		  },
+		   {"fist_title":"家电 数码",
+		    "second_data":[
+			   {"second_title":"五金电器 ",
+			    "second_data":["内衣1","内衣2","内衣3","内衣4","内衣5"]
+			   },
+			    {"second_title":"家居电器",
+			     "second_data":["女装1","内衣2"]
+			   },
+			   {"second_title":"厨房电器",
+			     "second_data":["男装1","男装2","男装3","男装4","男装5"]
+			   },
+			    {"second_title":"女鞋",
+			     "second_data":["女鞋1","女鞋2","女鞋3","女鞋4","女鞋5"]
+			   },
+			    {"second_title":"男鞋",
+			     "second_data":["男鞋1","男鞋2","男鞋3","男鞋4","男鞋5"]
+			   }
+			   ]
+		  },
+		  {"fist_title":"家电 数码",
+		    "second_data":[
+			   {"second_title":"五金电器 ",
+			    "second_data":["内衣1","内衣2","内衣3","内衣4","内衣5"]
+			   },
+			    {"second_title":"家居电器",
+			     "second_data":["女装1","内衣2"]
+			   },
+			   {"second_title":"厨房电器",
+			     "second_data":["男装1","男装2","男装3","男装4","男装5"]
+			   }
+			
+			   ]
+		  },
+		    {"fist_title":"房产家装",
+		    "second_data":[
+			   {"second_title":"长沙房产 ",
+			    "second_data":["内衣1","内衣2","内衣3","内衣4","内衣5"]
+			   },
+			    {"second_title":"整体家装",
+			     "second_data":["女装1","内衣2"]
+			   },
+			   {"second_title":"厨房电器",
+			     "second_data":["男装1","男装2","男装3","男装4","男装5"]
+			   }
+			
+			   ]
+		  }
+ 	]
+
+
+
+}

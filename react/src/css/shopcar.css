@@ -1,0 +1,44 @@
+@charset "UTF-8";
+* { margin: 0 auto; }
+
+html, body { border: none; margin: 0; padding: 0; color: #444444; width: 100%; }
+
+ul, ol, dl { list-style: none; border: none; }
+
+a { text-decoration: none; color: black; color: #444444;}
+
+.header_search { width: 1200px; height: 106px; }
+.logo { float: left; margin-top: 15px; }
+.car { width: 1200px; overflow: hidden; border: 1px solid gainsboro; margin-bottom: 30px }
+.car section { width: 1200px; float: left; }
+.car .tittle { height: 40px; background: #eeeeee; border-top: 1px solid gainsboro; }
+.car .tittle ul { margin-left: -30px; display: block; width: 1200px; height: 40px; }
+.car .tittle ul li { text-align: left; float: left; width: 178px; font-size: 12px; line-height: 40px; }
+.car .car_min { overflow: hidden; width: 1200px; }
+.car .car_min ul { display: block; width: 1200px; border-top: 1px solid gainsboro; margin-left: -30px; height: 150px; }
+.car .car_min ul li { float: left; font-size: 13px; display: inline-block; width: 178px; height: 150px; overflow: hidden; word-wrap: normal; line-height: 150px; }
+.car .car_min ul li .del { margin-left: 20px; }
+.car .car_min .num { padding: 0 15px; }
+.car .car_min .btn_left, .car .car_min .btn_right { cursor: pointer; font-size: 15px; font-weight: bold; }
+.btn{ margin-top: 62px;  line-height: 25px;  }
+.tu { width: 120px; height: 120px; vertical-align: middle; }
+
+.box { float: left; width: 1200px; height: 114px; background: #eeeeee; margin-top: 1px solid gainsboro; font-size: 14px; color: grey; }
+.box .left { padding-left: 10px; padding-top: 10px; float: left; width: 590px; height: 114px; }
+.box .left span { cursor: pointer; margin-right: 30px; }
+.box .left .sup:hover { color: #e21357; font-weight: bold; }
+.box .center { float: left; width: 210px; height: 114px; border-right: 1px solid gainsboro; line-height: 29px; }
+.box .center .last { color: #e21357; font-weight: bold; }
+.box .right { float: left; width: 280px; height: 114px; }
+.box .right a { color: white; display: block; width: 166px; height: 38px; background: #e21357; font-size: 15px; text-align: center; margin-left: 132px; margin-top: 55px; line-height: 38px; }
+.box .right a:hover { background: darkred; }
+
+.del { cursor: pointer; }
+
+.shouye { float: right; font-size: 13px; font-weight: 100; }
+
+.shouye:hover { color: #e23a83; text-decoration: underline; }
+
+
+h5 { width: 1200px; padding-left: 10px; font-size: 15px; margin-bottom: 10px; }
+

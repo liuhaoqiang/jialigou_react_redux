@@ -1,0 +1,49 @@
+@charset "UTF-8";
+* { margin: 0 auto; }
+
+html, body { border: none; margin: 0; padding: 0; width: 100%; color: #444444; }
+
+ul, ol, dl { list-style: none; border: none; }
+
+a { text-decoration: none; color: black; color: #444444; }
+
+/*头部开始*/
+
+.mainbox { width: 1200px; height: 525px; }
+.mainbox .product_nav { width: 1200px; height: 40px; line-height: 40px; }
+.mainbox .product_nav .tittle { font-size: 18px; font-weight: bold; }
+.mainbox .product_nav .product_name { font-size: 12px; }
+.mainbox div { float: left; }
+.mainbox .product_picbox { width: 1200px; height: 359px; }
+.mainbox .product_picbox .product { width: 359px; height: 359px; }
+.mainbox .product_picbox .product img { width: 359px; height: 359px; }
+.mainbox .product_picbox .right { overflow: hidden; }
+.mainbox .product_picbox .right .right_one { width: 699px; height: 359px; font-size: 15px; }
+.mainbox .product_picbox .right .right_one .right_one_one { height: 70px; width: 100%; background: #eeeeee; line-height: 35px; margin-bottom: 30px; }
+.mainbox .product_picbox .right .cat { width: 500px; height: 200px; float: left; text-align: center; }
+.mainbox .product_picbox .right .cat .success { margin-top: 20px; width: 500px; height: 50px; margin-bottom: 20px; position: relative; }
+.mainbox .product_picbox .right .cat .success span { display: block; width: 100px; height: 35px; line-height: 35px; background: #e21357; color: white; border-radius: 5px; display: none; position: relative; top: -150px; left: -10px; }
+.mainbox .product_picbox .right .cat a { display: block; width: 120px; height: 25px; line-height: 25px; border: 1px solid gainsboro; float: left; margin-right: 15px; background: #eeeeee; }
+.mainbox .product_picbox .right .cat .cat_tow { background: #e21357; color: white; cursor: pointer; }
+.mainbox .product_picbox .right .cat .cat_tow:hover { background: darkred; }
+.mainbox .product_picbox .right .cat .cat_three { width:120px;background: #e21357; color: white; cursor: pointer;}
+.mainbox .product_picbox .right .cat .cat_three:hover { background: darkred; color: white; }
+.mainbox .product_picbox .right .cat .cat_one { background: #e21357; color: white; cursor: pointer; }
+.mainbox .product_picbox .right .cat .cat_one:hover { background: darkred; color: white; }
+h1 { font-size: 18px; font-weight: bold; color: #444444; line-height: 36px; }
+
+.code, .num { padding-right: 100px; }
+
+.taocan { padding-right: 100px; }
+
+.price { padding-right: 82px; }
+
+.btn {outline:none; border:none;display: inline-block; width: 25px; height: 25px; border-radius: 50%; background: #eeeeee; font-weight: bold; font-size: 16px; text-align: center; cursor: pointer; }
+
+.shuru { width: 47px; height: 20x; line-height: 20px; margin: 0 10px; text-align: center; }
+
+#cat_num { margin-left: 20px; font-size: 12px; display: inline-block; height: 18px; width: 18px; background: #e21357; color: white; border-radius: 50%; text-align: center; line-height: 18px; position: relative; left: -43px; top: -6px; }
+
+.move_style { display: block; width: 359px; height: 359px; position: fixed; border-radius: 50%; }
+
+/*# sourceMappingURL=product.css.map */
